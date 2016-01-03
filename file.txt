@@ -1,2 +1,5 @@
 myfile
 git initial
+
+New text added:wq
+
